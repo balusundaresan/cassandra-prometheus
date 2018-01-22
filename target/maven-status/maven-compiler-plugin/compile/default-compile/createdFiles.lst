@@ -1,0 +1,5 @@
+com/nabto/cassandra/prometheus/PrometheusExports$SamplesMap.class
+com/nabto/cassandra/prometheus/PrometheusExports$SampleName.class
+com/nabto/cassandra/prometheus/Exporter.class
+com/nabto/cassandra/prometheus/PrometheusExports.class
+com/nabto/cassandra/prometheus/PrometheusExporter.class
